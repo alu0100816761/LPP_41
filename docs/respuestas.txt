@@ -1,1 +1,3 @@
 Trabajo en equipo con git
+
+Un compilador necesita traducir de un código fuente a un lenguaje objeto y genera un programa ejecutable, mientras que un intérprete toma cada línea de código, la analiza y ejecuta al mismo tiempo. El interprete es más lento que el compilador, porque siempre está verificando el código.
